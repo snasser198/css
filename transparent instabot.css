@@ -1,0 +1,23 @@
+.roko-instabot-widget {
+     opacity: .9;
+}
+
+.roko-instabot-widget .conversation .message .question {
+  opacity: 1;
+}
+
+.roko-instabot-widget .response {
+  opacity: 1;
+}
+
+.roko-instabot-widget .conversation .message .avatar {
+  opacity: 1;
+}
+
+.roko-instabot-widget .response {
+  opacity: 1;
+}
+
+.roko-instabot-widget .head {
+  opacity: 1;
+}
